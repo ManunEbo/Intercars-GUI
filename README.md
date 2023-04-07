@@ -7,7 +7,7 @@ This project is the second part of the discontinued InterCars Leicester database
 The aim of this project was to develop a graphical user interface (GUI) that will enable<br>
 Intercars staff to interact with the database without the technical knowledge.<br><br>
 
-Inside is the incomplete development process of a front end application using python kivy and kivymd that<br>
+Inside is the incomplete development process of a desktop front end application using python kivy and kivymd that<br>
 would have allowed InterCars staff to insert valuable operational information to the database and to retrieve<br>
 such information in various ways for insight and decision making.<br>
 
